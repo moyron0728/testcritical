@@ -1,0 +1,15 @@
+{
+  "name": "Críticos Pathfinder",
+  "version": "1.0.0",
+  "manifest_version": 1,
+  "description": "Genera efectos narrativos de golpe crítico para Pathfinder, por tipo de daño.",
+  "author": "Saul",
+  "icon": "/icon.svg",
+  "action": {
+    "title": "Críticos PF",
+    "icon": "/icon.svg",
+    "popover": "/index.html",
+    "width": 400,
+    "height": 640
+  }
+}
